@@ -87,6 +87,7 @@ Tebo is a telepresence robot designed to remove physical boundaries and bring pe
 
 ### TOPICS & MESSAGES 
 
-                                          |
+
+<img src="./documentation_resources/Tebo_Flowchart.png">
 
 
